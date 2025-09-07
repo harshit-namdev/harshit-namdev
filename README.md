@@ -1,21 +1,30 @@
-<!-- Profile README.md -->
+<!-- Cool GitHub Profile README -->
 
-<!-- Typing SVG -->
+<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F700&width=600&lines=Hey+There!+👋+I'm+Harshit+Namdev;Cybersecurity+Enthusiast+%7C+Developer+%7C+Explorer;I+Love+to+Build+%26+Break+Things+🔐;Always+Learning+New+Tech+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hey+There!+👋+I'm+Harshit+Namdev;Cybersecurity+Enthusiast+%7C+Developer;Exploring+Security+%26+AI+🚀;Let's+Build+%26+Secure+the+Future+🔐">
 </p>
 
 ---
 
-# 💫 About Me:
-🔹 **Cybersecurity Enthusiast** | **Pentester** | **Developer**  
-🔹 Skilled in **Web Security, VAPT, DDoS Mitigation & Secure Coding**  
-🔹 Currently working on **UAV Path Planning & AI in Security**  
-🔹 Always exploring new technologies & building cool stuff ⚡  
+<!-- Cat Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200">
+</p>
+
+---
+
+# ✨ Profile Summary
+🔹 **Cybersecurity Enthusiast** passionate about securing systems & applications  
+🔹 Skilled in **Pentesting, VAPT, Ethical Hacking, and Secure Development**  
+🔹 Building tools for **network security, phishing detection, and UAV AI path planning**  
+🔹 Open to **Internships | PPOs | Security Projects**  
+🔹 Lifelong learner who loves exploring new tech 🌍  
 
 ---
 
 # 🛠️ Tech Stack
+
 💻 **Languages**  
 `Python` `C++` `JavaScript` `HTML` `CSS`  
 
@@ -32,44 +41,34 @@
 
 # 🚀 Featured Projects
 
-📌 [**VulScan**](https://github.com/harshit-namdev)  
-*🔍 Vulnerability & Network Scanner built with Python (PyQt5).*  
+📌 [**VulScan**](https://github.com/harshit-namdev) – Vulnerability & Network Scanner built in Python (PyQt5).  
 
-📌 [**PhishGuard Pro**](https://github.com/harshit-namdev)  
-*🛡️ Browser extension that detects phishing sites with 89.68% accuracy.*  
+📌 [**PhishGuard Pro**](https://github.com/harshit-namdev) – Browser extension detecting phishing sites with 89.68% accuracy.  
 
-📌 [**Portfolio Website**](https://harshitnamdev.netlify.app)  
-*🌐 Personal portfolio showcasing my skills & projects.*  
+📌 [**Portfolio Website**](https://harshitnamdev.netlify.app) – My portfolio showcasing skills & projects.  
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshit-namdev&show_icons=true&theme=tokyonight" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-namdev&layout=compact&theme=tokyonight" height="180">
 </p>
 
+---
+
+# 🌐 Connect With Me  
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-namdev&theme=tokyonight" height="200">
+  <a href="https://harshitnamdev.netlify.app"><img src="https://img.shields.io/badge/🌐-Portfolio-00C0FF?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/harshit-namdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/harshit-namdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:harshitnamdev86@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-# 🔥 Fun Zone
-- 🎯 *“Security isn’t a product, it’s a process.”*  
-- ⚡ Random Dev Joke:  
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)  
-
----
-
-# 🤝 Connect With Me  
-🌐 [Portfolio](https://harshitnamdev.netlify.app)  
-💼 [LinkedIn](https://linkedin.com/in/harshit-namdev)  
-🐙 [GitHub](https://github.com/harshit-namdev)  
-📧 **harshitnamdev86@gmail.com**  
-
----
-
+<!-- Footer Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshit-namdev&label=Profile+Views&color=blue&style=flat" alt="views"/>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300">
 </p>
