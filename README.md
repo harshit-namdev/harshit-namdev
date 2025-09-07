@@ -37,11 +37,12 @@
 
 ---
 
-## 🐱 CLI Animated Cat  
+## 🐱 Meow Meow 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="250px" alt="CLI Cat Animation"/>
-</p>
+  /\_/\  
+ ( o.o )  > Meow! Hack the Planet...
+  > ^ <
+
 
 ---
 
