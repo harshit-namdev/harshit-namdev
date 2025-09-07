@@ -1,6 +1,8 @@
-<!-- Cool GitHub Profile README -->
+<!-- ============================================= -->
+<!--   Harshit Namdev - Cybersecurity GitHub ReadMe -->
+<!-- ============================================= -->
 
-<!-- Typing SVG Animation -->
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hey+There!+👋+I'm+Harshit+Namdev;Cybersecurity+Enthusiast+%7C+Developer;Exploring+Security+%26+AI+🚀;Let's+Build+%26+Secure+the+Future+🔐">
 </p>
@@ -23,55 +25,40 @@
 
 ---
 
-# 🛠️ Tech Stack
+# 🛡️ Cybersecurity & Tech Stack  
 
-💻 **Languages**  
-`Python` `C++` `JavaScript` `HTML` `CSS`  
-
-🛡️ **Cybersecurity Tools**  
-`Nmap` `Burp Suite` `Metasploit` `Wireshark` `OWASP ZAP` `Hydra` `OpenVAS`  
-
-🖥️ **OS & Platforms**  
-`Kali Linux` `Ubuntu` `Parrot OS` `Windows`  
-
-☁️ **Others**  
-`Flask` `Cloudflare` `MS Office`  
-
----
-# 🛠️ Tech Stack
+<!-- Hacker Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="Hacker Animation">
+</p>
 
 <p align="center">
+  <!-- Programming -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="55" height="55"/>
 
-<!-- Programming Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>
+  <!-- Cyber Tools -->
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-burp-suite-penetration-testing-tool-developed-by-portswigger-ltd-color-tal-revivo.png" title="Burp Suite" width="55" height="55"/>&nbsp;
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-nmap-cyber-security-flat-flat-juicy-fish.png" title="Nmap" width="55" height="55"/>&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/wireshark.png" title="Wireshark" width="55" height="55"/>&nbsp;
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-hacker-cyber-security-soft-fill-juicy-fish.png" title="Metasploit" width="55" height="55"/>
 
-<!-- Frameworks -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/>&nbsp;
-
-<!-- Cybersecurity Tools (custom icons) -->
-<img src="https://img.icons8.com/external-flat-juicy-fish/60/external-nmap-cyber-security-flat-flat-juicy-fish.png" title="Nmap" alt="Nmap" width="55" height="55"/>&nbsp;
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-burp-suite-penetration-testing-tool-developed-by-portswigger-ltd-color-tal-revivo.png" title="Burp Suite" alt="Burp Suite" width="55" height="55"/>&nbsp;
-<img src="https://img.icons8.com/ios-filled/50/wireshark.png" title="Wireshark" alt="Wireshark" width="55" height="55"/>&nbsp;
-<img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-hacker-cyber-security-soft-fill-juicy-fish.png" title="Metasploit" alt="Metasploit" width="55" height="55"/>
-
-<!-- Operating Systems -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>&nbsp;
-<img src="https://img.icons8.com/color/48/kali-linux.png" title="Kali Linux" alt="Kali Linux" width="55" height="55"/>&nbsp;
-<img src="https://img.icons8.com/color/48/ubuntu--v1.png" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>&nbsp;
-<img src="https://img.icons8.com/color/48/windows-10.png" title="Windows" alt="Windows" width="55" height="55"/>
-
+  <!-- OS -->
+  <img src="https://img.icons8.com/color/48/kali-linux.png" title="Kali Linux" width="55" height="55"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/ubuntu--v1.png" title="Ubuntu" width="55" height="55"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/windows-10.png" title="Windows" width="55" height="55"/>
 </p>
 
 ---
 
-<!-- Animated Divider -->
+<!-- Matrix Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="700" alt="Matrix Animation">
 </p>
+
+---
 
 # 🚀 Featured Projects
 
@@ -102,7 +89,7 @@
 
 ---
 
-<!-- Footer Animation -->
+<!-- Cyber Shield Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/5kF6vY72Pvsmq/giphy.gif" width="150" alt="Cyber Shield">
 </p>
