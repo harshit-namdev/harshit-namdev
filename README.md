@@ -38,10 +38,11 @@
 ---
 
 ## 🐱 Meow Meow Meow ...
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300px" alt="CLI Cat">
-</p>
-
+---
+  /\_/\  
+ ( o.o )  > Meow! Hack the Planet...
+  > ^ <
+---
 
 ## 📊 GitHub Stats  
 
