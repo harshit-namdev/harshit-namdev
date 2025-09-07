@@ -9,74 +9,66 @@
 
 ---
 
-<!-- Hacker GIF -->
+<!-- Cat Hacker GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Hacker at work">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAM/cat-computer.gif" width="400" alt="Hacker Cat">
 </p>
 
 ---
 
 # ✨ Profile Summary
-🚀 **Cybersecurity Engineer in the making** | **B.Tech CSE (Cyber Security)**  
-🛡️ Passionate about **Pentesting | VAPT | Web Security | DDoS Mitigation**  
-🤖 Exploring **AI x Security** & UAV Path Planning  
-⚡ Building tools like **VulScan** & **PhishGuard Pro**  
-🎯 Mission: *“Make the Internet Safer, One Exploit at a Time.”*  
+🔹 **Cybersecurity Enthusiast** passionate about securing systems & applications  
+🔹 Skilled in **Pentesting, VAPT, Ethical Hacking, and Secure Development**  
+🔹 Building tools for **network security, phishing detection, and UAV AI path planning**  
+🔹 Open to **Internships | PPOs | Security Projects**  
+🔹 Lifelong learner who loves exploring new tech 🌍  
 
 ---
 
 # 🛡️ Cybersecurity & Tech Stack  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="Hacker Animation">
+  <!-- Programming -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="55" height="55"/>
+
+  <!-- Cyber Tools -->
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-burp-suite-penetration-testing-tool-developed-by-portswigger-ltd-color-tal-revivo.png" title="Burp Suite" width="55" height="55"/>&nbsp;
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-nmap-cyber-security-flat-flat-juicy-fish.png" title="Nmap" width="55" height="55"/>&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/wireshark.png" title="Wireshark" width="55" height="55"/>&nbsp;
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-hacker-cyber-security-soft-fill-juicy-fish.png" title="Metasploit" width="55" height="55"/>
+
+  <!-- OS -->
+  <img src="https://img.icons8.com/color/48/kali-linux.png" title="Kali Linux" width="55" height="55"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/ubuntu--v1.png" title="Ubuntu" width="55" height="55"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/windows-10.png" title="Windows" width="55" height="55"/>
 </p>
-
-<p align="center">
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" /> 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow" /> 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />  
-
-<!-- Cyber Tools -->
-<img src="https://img.shields.io/badge/Nmap-0080FF?style=for-the-badge&logo=linux&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Metasploit-2E86C1?style=for-the-badge&logo=kalilinux&logoColor=white"/>  
-
-<!-- OS -->
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
-
-</p>
-
----
-
-
 
 ---
 
 # 🚀 Featured Projects
 
-📌 [**VulScan**](https://github.com/harshit-namdev) – Python + PyQt5 Vulnerability Scanner 🚨  
-📌 [**PhishGuard Pro**](https://github.com/harshit-namdev) – Browser extension detecting phishing 🎣  
-📌 [**Portfolio Website**](https://harshitnamdev.netlify.app) – Personal portfolio 🌐  
+📌 [**VulScan**](https://github.com/harshit-namdev) – Vulnerability & Network Scanner built in Python (PyQt5).  
+
+📌 [**PhishGuard Pro**](https://github.com/harshit-namdev) – Browser extension detecting phishing sites with 89.68% accuracy.  
+
+📌 [**Portfolio Website**](https://harshitnamdev.netlify.app) – My portfolio showcasing skills & projects.  
 
 ---
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-namdev&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-namdev&layout=compact&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-namdev&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-namdev&layout=compact&theme=tokyonight" height="180">
 </p>
 
 ---
 
 # 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/harshit-namdev/harshit-namdev/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/harshit-namdev/harshit-namdev/blob/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -84,29 +76,16 @@
 # 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://harshitnamdev.netlify.app"><img src="https://img.shields.io/badge/🌐-Portfolio-0abde3?style=for-the-badge"></a>
+  <a href="https://harshitnamdev.netlify.app"><img src="https://img.shields.io/badge/🌐-Portfolio-00C0FF?style=for-the-badge"></a>
   <a href="https://linkedin.com/in/harshit-namdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/harshit-namdev"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/harshit-namdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:harshitnamdev86@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-<!-- Matrix Animation -->
+# ⚡ Hacker Zone
 <p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="700" alt="Matrix Animation">
-</p>
-
----
-
-# ⚡ Hacker Quotes  
-> “Security is not a product, it’s a process.” – Bruce Schneier  
-> “The quieter you become, the more you can hear.” – Anonymous Hacker  
-
----
-
-<!-- Footer Cyber Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/5kF6vY72Pvsmq/giphy.gif" width="150" alt="Cyber Shield">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" alt="Cyber Code">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/cyber-shield.gif" width="150" alt="Cyber Shield">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/matrix-code.gif" width="700" alt="Matrix Animation">
 </p>
