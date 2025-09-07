@@ -1,7 +1,3 @@
-<!-- ============================================= -->
-<!--   Harshit Namdev - Cybersecurity GitHub ReadMe -->
-<!-- ============================================= -->
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&width=650&lines=Hey+There!+👋+I'm+Harshit+Namdev;Cybersecurity+Enthusiast+%7C+Developer;Pentesting+%7C+AI+%7C+Secure+Systems;Building+%26+Breaking+Things+Everyday+🔐;Welcome+to+my+Cyber+Hub+💻">
@@ -9,9 +5,9 @@
 
 ---
 
-<!-- Cat Hacker GIF -->
+<!-- Cat Hacker GIF (Laptop wali 😸) -->
 <p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAM/cat-computer.gif" width="400" alt="Hacker Cat">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Hacker Cat">
 </p>
 
 ---
@@ -28,22 +24,21 @@
 # 🛡️ Cybersecurity & Tech Stack  
 
 <p align="center">
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="55" height="55"/>
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" width="55" height="55"/>
 
-  <!-- Cyber Tools -->
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-burp-suite-penetration-testing-tool-developed-by-portswigger-ltd-color-tal-revivo.png" title="Burp Suite" width="55" height="55"/>&nbsp;
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-nmap-cyber-security-flat-flat-juicy-fish.png" title="Nmap" width="55" height="55"/>&nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/wireshark.png" title="Wireshark" width="55" height="55"/>&nbsp;
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-hacker-cyber-security-soft-fill-juicy-fish.png" title="Metasploit" width="55" height="55"/>
+  <!-- Cybersecurity Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" title="Wireshark" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" title="Burp Suite" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnometerminal.svg" title="Pentesting" width="55" height="55"/>
 
   <!-- OS -->
-  <img src="https://img.icons8.com/color/48/kali-linux.png" title="Kali Linux" width="55" height="55"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/ubuntu--v1.png" title="Ubuntu" width="55" height="55"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/windows-10.png" title="Windows" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" width="55" height="55"/>
 </p>
 
 ---
