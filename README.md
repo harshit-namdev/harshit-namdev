@@ -58,6 +58,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/harshit-namdev/harshit-namdev/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+![snake gif](https://github.com/harshit-namdev/harshit-namdev/blob/output/snake.svg)
 
 ---
 
